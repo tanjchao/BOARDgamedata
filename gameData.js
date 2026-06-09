@@ -8857,7 +8857,7 @@ const gameData = [
 { "id": 2032, "name": "維京怒火", "date": "2025/08/28", "players": ["我", "阿崇", "阿育", "阿杰", "阿泓", "阿錡"], "content": "阿崇逆轉勝，出3次牌就結束了~", "purchase": "", "price": 0 },
 { "id": 2033, "name": "維京怒火", "date": "2025/08/28", "players": ["我", "小亮", "阿偉", "小琇", "阿華", "阿宇", "阿孟", "阿棠"], "content": "", "purchase": "", "price": 0 },
 { "id": 2034, "name": "維京怒火", "date": "2025/12/18", "players": ["我", "阿華", "阿榮", "阿孟"], "content": "", "purchase": "", "price": 0 },
-{ "id": 2035, "name": "維京infu", "date": "2025/12/20", "players": ["我", "阿崇", "阿堃", "阿錡", "小芳", "阿育", "阿泓"], "content": "", "purchase": "", "price": 0 },
+{ "id": 2035, "name": "維京怒火", "date": "2025/12/20", "players": ["我", "阿崇", "阿堃", "阿錡", "小芳", "阿育", "阿泓"], "content": "", "purchase": "", "price": 0 },
 { "id": 2036, "name": "維京怒火", "date": "2025/12/30", "players": ["我", "阿崇", "阿耀", "阿鴻"], "content": "", "purchase": "", "price": 0 },
 { "id": 2037, "images": ["2037/1.jpg"], "name": "維京怒火", "date": "2026/01/08", "players": ["我", "阿寶", "阿軒", "阿樂", "阿閔", "阿亦"], "content": "", "purchase": "", "price": 0 },
 { "id": 2038, "name": "維京怒火", "date": "2026/01/22", "players": ["我", "阿寶", "阿樂", "阿軒"], "content": "", "purchase": "", "price": 0 },
