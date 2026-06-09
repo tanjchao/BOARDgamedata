@@ -9337,5 +9337,6 @@ const gameData = [
     "purchase": "",
     "price": 990,
     "blogKeyword": "大殺四方"
-  }
+  },
+  {"id":2514,"images":["2514/1.jpg"],"name":"王冠之心","date":"2026/06/01","players":["我","小妤","阿偉"],"content":"阿偉贏得第10場王冠之心","purchase":"","price":0,"blogKeyword":"王冠之心"}
   ];
