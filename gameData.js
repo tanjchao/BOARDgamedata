@@ -950,7 +950,7 @@ const gameData = [
     "date": "2021/1/23",
     "players": [
       "我",
-      "小婷",
+      "婷婷",
       "老婆",
       "妮妮"
     ],
@@ -8925,7 +8925,7 @@ const gameData = [
 { "id": 2101, "date": "2018/01/22", "name": "壓垮駱駝", "players": ["我", "老婆", "妮妮"], "purchase": "", "price": 0, "content": "" },
 { "id": 2102, "date": "2018/08/19", "name": "壓垮駱駝", "players": ["我", "妮妮", "老婆", "阿猩"], "purchase": "", "price": 0, "content": "" },
 { "id": 2103, "date": "2018/12/29", "name": "壓垮駱駝", "players": ["我", "老婆", "妮妮", "阿猩", "小彩", "小百"], "purchase": "", "price": 0, "content": "" },
-{ "id": 2104, "date": "2018/12/30", "name": "壓垮駱駝", "players": ["我", "老婆", "妮妮", "小婷"], "purchase": "", "price": 0, "content": "" },
+{ "id": 2104, "date": "2018/12/30", "name": "壓垮駱駝", "players": ["我", "老婆", "妮妮", "婷婷"], "purchase": "", "price": 0, "content": "" },
 { "id": 2105, "images": ["2105/1.jpg"], "name": "壓垮駱駝", "date": "2019/02/04", "players": ["我", "老婆", "妮妮", "妹妹"], "content": "", "purchase": "", "price": 0 },
 { "id": 2106, "images": ["2106/1.jpg"], "name": "壓垮駱駝", "date": "2020/01/24", "players": ["我", "老婆", "妮妮", "妹妹"], "content": "", "purchase": "", "price": 0 },
 { "id": 2107, "date": "2020/05/31", "name": "壓垮駱駝", "players": ["我", "妮妮", "妹妹"], "purchase": "", "price": 0, "content": "" },
@@ -8936,7 +8936,7 @@ const gameData = [
 { "id": 2112, "images": ["2112/1.jpg"], "name": "壓垮駱駝", "date": "2022/05/01", "players": ["我", "妮妮", "老婆", "妹妹"], "content": "", "purchase": "", "price": 0 },
 { "id": 2113, "date": "2022/07/10", "name": "壓垮駱駝", "players": ["我", "老婆", "妹妹"], "purchase": "", "price": 0, "content": "" },
 { "id": 2114, "images": ["2114/1.jpg"], "name": "壓垮駱駝", "date": "2023/04/30", "players": ["我", "阿適師", "阿麟師"], "content": "", "purchase": "", "price": 0 },
-{ "id": 2115, "images": ["2115/1.jpg"], "name": "壓垮駱駝", "date": "2024/02/11", "players": ["我", "妮妮", "小婷"], "content": "", "purchase": "", "price": 0 },
+{ "id": 2115, "images": ["2115/1.jpg"], "name": "壓垮駱駝", "date": "2024/02/11", "players": ["我", "妮妮", "婷婷"], "content": "", "purchase": "", "price": 0 },
 { "id": 2116, "images": ["2116/1.jpg"], "name": "壓垮駱駝", "date": "2025/10/04", "players": ["我", "妮妮", "老婆", "妹妹"], "content": "", "purchase": "", "price": 0 },
 { "id": 2117, "images": ["2117/1.jpg"], "name": "機密代號裡應外合", "date": "2019/07/27", "players": ["我", "妮妮"], "content": "失敗3次，成功0次 (11枚)", "purchase": "", "price": 0 },
 { "id": 2118, "name": "機密代號裡應外合", "date": "2019/08/22", "players": ["我", "妮妮"], "content": "還不懂規則猜到殺手失敗(11枚)", "purchase": "", "price": 0 },
