@@ -9377,5 +9377,4 @@ const gameData = [
   {"id": 2554, "name": "駱駝大賽2020新版", "date": "2022/08/12", "players": ["我", "阿錩", "阿駿", "阿康", "阿王", "阿勝"], "purchase": "", "price": 0, "content": "", "blogKeyword": "駱駝大賽"},
   {"id": 2555, "name": "駱駝大賽2020新版", "date": "2022/08/15", "players": ["我", "阿駿", "阿王", "阿峰", "小紫"], "purchase": "", "price": 0, "content": "", "blogKeyword": "駱駝大賽"},
   {"id": 2556, "name": "駱駝大賽2020新版", "date": "2023/08/29", "players": ["阿駿", "小蓉", "阿勝", "阿宗", "阿丞", "阿誠"], "purchase": "", "price": 0, "content": "", "blogKeyword": "駱駝大賽"}
-]
 ];
