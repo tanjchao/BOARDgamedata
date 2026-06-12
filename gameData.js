@@ -9369,5 +9369,13 @@ const gameData = [
   {"id": 2545, "name": "地精時代", "date": "2025/11/06", "players": ["我", "阿孟", "阿榮"], "purchase": "", "price": 0, "content": "", "blogKeyword": "地精時代"},
   {"id": 2546, "name": "地精時代", "date": "2025/11/13", "players": ["我", "阿孟", "阿榮", "阿宇"], "purchase": "", "price": 0, "content": "", "blogKeyword": "地精時代"},
   {"id": 2547, "name": "地精時代", "date": "2025/12/02", "players": ["我", "阿錡", "阿堃"], "purchase": "", "price": 0, "content": "", "blogKeyword": "地精時代"},
-  {"id": 2548, "name": "地精時代", "date": "2025/12/03", "players": ["我", "阿錡", "阿丞", "阿堃"], "purchase": "", "price": 0, "content": "", "blogKeyword": "地精時代"}
+  {"id": 2548, "name": "地精時代", "date": "2025/12/03", "players": ["我", "阿錡", "阿丞", "阿堃"], "purchase": "", "price": 0, "content": "", "blogKeyword": "地精時代"},
+  {"id": 2550, "name": "駱駝大賽2020新版", "date": "2020/12/17", "players": ["我", "阿駿", "阿錩", "阿安", "奧迪"], "purchase": "", "price": 0, "content": "", "blogKeyword": "駱駝大賽"},
+  {"id": 2551, "name": "駱駝大賽2020新版", "date": "2021/01/16", "players": ["我", "阿暉", "阿榮", "阿聰"], "purchase": "", "price": 0, "content": "", "blogKeyword": "駱駝大賽"},
+  {"id": 2552, "name": "駱駝大賽2020新版", "date": "2021/05/11", "players": ["我", "阿榮", "阿駿", "小映"], "purchase": "", "price": 0, "content": "", "blogKeyword": "駱駝大賽"},
+  {"id": 2553, "name": "駱駝大賽2020新版", "date": "2022/01/08", "players": ["我", "阿錩", "阿駿", "阿宇", "阿勝"], "purchase": "", "price": 0, "content": "", "blogKeyword": "駱駝大賽"},
+  {"id": 2554, "name": "駱駝大賽2020新版", "date": "2022/08/12", "players": ["我", "阿錩", "阿駿", "阿康", "阿王", "阿勝"], "purchase": "", "price": 0, "content": "", "blogKeyword": "駱駝大賽"},
+  {"id": 2555, "name": "駱駝大賽2020新版", "date": "2022/08/15", "players": ["我", "阿駿", "阿王", "阿峰", "小紫"], "purchase": "", "price": 0, "content": "", "blogKeyword": "駱駝大賽"},
+  {"id": 2556, "name": "駱駝大賽2020新版", "date": "2023/08/29", "players": ["阿駿", "小蓉", "阿勝", "阿宗", "阿丞", "阿誠"], "purchase": "", "price": 0, "content": "", "blogKeyword": "駱駝大賽"}
+]
 ];
