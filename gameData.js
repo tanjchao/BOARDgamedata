@@ -9369,6 +9369,5 @@ const gameData = [
   {"id": 2545, "name": "地精時代", "date": "2025/11/06", "players": ["我", "阿孟", "阿榮"], "purchase": "", "price": 0, "content": "", "blogKeyword": "地精時代"},
   {"id": 2546, "name": "地精時代", "date": "2025/11/13", "players": ["我", "阿孟", "阿榮", "阿宇"], "purchase": "", "price": 0, "content": "", "blogKeyword": "地精時代"},
   {"id": 2547, "name": "地精時代", "date": "2025/12/02", "players": ["我", "阿錡", "阿堃"], "purchase": "", "price": 0, "content": "", "blogKeyword": "地精時代"},
-  {"id": 2548, "name": "地精時代", "date": "2025/12/03", "players": ["我", "阿錡", "阿丞", "阿堃"], "purchase": "", "price": 0, "content": "", "blogKeyword": "地精時代"},
-  {"id": 2549, "name": "地精時代", "date": "2026/05/09", "players": ["我", "阿立", "阿勝", "阿錩"], "purchase": "", "price": 0, "content": "阿立爆3場，復活2次", "blogKeyword": "地精時代"}
+  {"id": 2548, "name": "地精時代", "date": "2025/12/03", "players": ["我", "阿錡", "阿丞", "阿堃"], "purchase": "", "price": 0, "content": "", "blogKeyword": "地精時代"}
 ];
