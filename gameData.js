@@ -9483,5 +9483,8 @@ const gameData = [
 {"id":2664,"name":"滿腦子番茄","date":"2023/09/19","players":["我","小婕","阿秉","小袖"],"content":"","purchase":"","price":0},
 {"id":2665,"name":"滿腦子番茄","date":"2023/09/25","players":["我","綜三丙小夥伴"],"content":"","purchase":"","price":0},
 {"id":2666,"name":"滿腦子番茄","date":"2023/09/27","players":["我","綜三丙小夥伴"],"content":"","purchase":"","price":0},
-{"id":2667,"name":"滿腦子番茄","date":"2023/10/02","players":["小巧","小佩","我"],"content":"","purchase":"","price":0} 
+{"id":2667,"name":"滿腦子番茄","date":"2023/10/02","players":["小巧","小佩","我"],"content":"","purchase":"","price":0},
+ {"id":2668,"name":"火柴會說話","date":"2019/12/28","players":["我","哇哈哈小夥伴"],"content":"","purchase":"","price":0},
+{"id":2669,"name":"火柴會說話","date":"2020/01/08","players":["我","哇哈哈小夥伴"],"content":"","purchase":"","price":0},
+{"id":2670,"name":"火柴會說話","date":"2020/04/07","players":["我","哇哈哈小夥伴"],"content":"","purchase":"","price":0} 
 ];
