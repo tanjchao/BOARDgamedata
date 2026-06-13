@@ -9447,5 +9447,10 @@ const gameData = [
 {"id":2626,"name":"矮人礦坑對決版","date":"2019/04/23","players":["我","老婆"],"content":"","purchase":"","price":0},
 {"id":2627,"name":"矮人礦坑對決版","date":"2019/04/30","players":["我","老婆"],"content":"","purchase":"","price":0},
 {"id":2628,"name":"矮人礦坑對決版","date":"2019/08/03","players":["我","老婆"],"content":"","purchase":"","price":0},
-{"id":2629,"name":"矮人礦坑對決版","date":"2022/10/10","players":["我","老婆"],"content":"3年沒玩了~.. 第一局就9金塊~","purchase":"","price":0}
+{"id":2629,"name":"矮人礦坑對決版","date":"2022/10/10","players":["我","老婆"],"content":"3年沒玩了~.. 第一局就9金塊~","purchase":"","price":0},
+  {"id":2630,"name":"袋中菲力貓","date":"2018/09/14","players":["我","阿允","阿和","阿睿"],"content":"","purchase":"","price":0},
+{"id":2631,"name":"袋中菲力貓","date":"2018/09/18","players":["我","阿允","阿和","阿睿"],"content":"","purchase":"","price":0},
+{"id":2632,"name":"袋中菲力貓","date":"2018/10/03","players":["我","阿允","阿和","阿睿"],"content":"","purchase":"","price":0},
+{"id":2633,"name":"袋中菲力貓","date":"2019/04/30","players":["我","阿允","阿和","阿睿"],"content":"","purchase":"","price":0},
+{"id":2634,"name":"袋中菲力貓","date":"2022/05/13","players":["我","阿立","阿勝","阿俊","阿錩"],"content":"","purchase":"","price":0}
 ];
