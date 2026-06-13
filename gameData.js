@@ -9412,5 +9412,13 @@ const gameData = [
 {"id":2590,"name":"AIRSHIPS飛空艇","date":"2024/12/22","players":["我","老婆"],"content":"好遊戲吃骰運啊~","purchase":"","price":0},
   {"id":2591,"name":"九格恐慌","date":"2025/01/20","players":["我","老婆"],"content":"","purchase":"","price":0},
 {"id":2592,"name":"九格恐慌","date":"2025/06/01","players":["我","老婆","妹妹"],"content":"","purchase":"","price":0},
-{"id":2593,"name":"九格恐慌","date":"2025/07/13","players":["我","老婆","妮妮"],"content":"","purchase":"","price":0}
+{"id":2593,"name":"九格恐慌","date":"2025/07/13","players":["我","老婆","妮妮"],"content":"","purchase":"","price":0},
+ {"id":2594,"name":"功夫擂台","date":"2020/09/27","players":["我","妹妹"],"content":"","purchase":"","price":0},
+{"id":2595,"name":"功夫擂台","date":"2020/10/25","players":["我","妹妹"],"content":"","purchase":"","price":0},
+{"id":2596,"name":"功夫擂台","date":"2022/10/09","players":["我","老婆"],"content":"竟然被熊貓逆轉，\"滅\"力相差14，扣5魂輸了~","purchase":"","price":0},
+{"id":2597,"name":"功夫擂台","date":"2022/10/10","players":["我","老婆"],"content":"先輸一局，下局終於贏了","purchase":"","price":0},
+{"id":2598,"name":"功夫擂台","date":"2023/10/26","players":["我","阿丞"],"content":"","purchase":"","price":0},
+{"id":2599,"name":"功夫擂台","date":"2023/11/04","players":["我","阿振"],"content":"","purchase":"","price":0},
+{"id":2600,"name":"功夫擂台","date":"2023/11/09","players":["我","阿振"],"content":"","purchase":"","price":0},
+{"id":2601,"name":"功夫擂台","date":"2023/11/09","players":["我","阿宗"],"content":"","purchase":"","price":0} 
 ];
