@@ -9427,5 +9427,11 @@ const gameData = [
 {"id":2605,"name":"馬戲團","date":"2025/06/01","players":["我","妹妹","老婆"],"content":"","purchase":"","price":0},
 {"id":2606,"name":"馬戲團","date":"2025/07/13","players":["我","妮妮","老婆"],"content":"","purchase":"","price":0},
 {"id":2607,"name":"馬戲團","date":"2025/10/05","players":["我","妮妮","老婆","妹妹"],"content":"","purchase":"","price":0},
-{"id":2608,"name":"馬戲團","date":"2026/02/16","players":["我","老婆","妮妮","妹妹"],"content":"","purchase":"","price":0}
+{"id":2608,"name":"馬戲團","date":"2026/02/16","players":["我","老婆","妮妮","妹妹"],"content":"","purchase":"","price":0},
+  {"id":2609,"name":"發明宅的怪奇傑作","date":"2017/05/01","players":["我"],"content":"","purchase":"","price":0},
+{"id":2610,"name":"發明宅的怪奇傑作","date":"2019/10/29","players":["我","電機小夥伴"],"content":"","purchase":"","price":0},
+{"id":2611,"name":"發明宅的怪奇傑作","date":"2024/11/17","players":["我"],"content":"","purchase":"","price":0},
+{"id":2612,"name":"發明宅的怪奇傑作","date":"2024/11/17","players":["我","老婆"],"content":"","purchase":"","price":0},
+{"id":2613,"name":"發明宅的怪奇傑作","date":"2024/11/24","players":["我","老婆"],"content":"","purchase":"","price":0},
+{"id":2614,"name":"發明宅的怪奇傑作","date":"2024/12/22","players":["我","老婆"],"content":"","purchase":"","price":0}
 ];
