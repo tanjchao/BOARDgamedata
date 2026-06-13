@@ -9433,5 +9433,20 @@ const gameData = [
 {"id":2611,"name":"發明宅的怪奇傑作","date":"2024/11/17","players":["我"],"content":"","purchase":"","price":0},
 {"id":2612,"name":"發明宅的怪奇傑作","date":"2024/11/17","players":["我","老婆"],"content":"","purchase":"","price":0},
 {"id":2613,"name":"發明宅的怪奇傑作","date":"2024/11/24","players":["我","老婆"],"content":"","purchase":"","price":0},
-{"id":2614,"name":"發明宅的怪奇傑作","date":"2024/12/22","players":["我","老婆"],"content":"","purchase":"","price":0}
+{"id":2614,"name":"發明宅的怪奇傑作","date":"2024/12/22","players":["我","老婆"],"content":"","purchase":"","price":0},
+  {"id":2615,"name":"矮人礦坑對決版","date":"2017/04/28","players":["我","老婆"],"content":"","purchase":"","price":0},
+{"id":2616,"name":"矮人礦坑對決版","date":"2018/10/01","players":["我","老婆"],"content":"","purchase":"","price":0},
+{"id":2617,"name":"矮人礦坑對決版","date":"2018/10/02","players":["我","老婆"],"content":"","purchase":"","price":0},
+{"id":2618,"name":"矮人礦坑對決版","date":"2018/10/07","players":["我","老婆"],"content":"","purchase":"","price":0},
+{"id":2619,"name":"矮人礦坑對決版","date":"2018/10/08","players":["我","老婆"],"content":"","purchase":"","price":0},
+{"id":2620,"name":"矮人礦坑對決版","date":"2018/10/14","players":["我","老婆"],"content":"","purchase":"","price":0},
+{"id":2621,"name":"矮人礦坑對決版","date":"2018/10/18","players":["我","老婆"],"content":"","purchase":"","price":0},
+{"id":2622,"name":"矮人礦坑對決版","date":"2019/03/19","players":["我","老婆"],"content":"","purchase":"","price":0},
+{"id":2623,"name":"矮人礦坑對決版","date":"2019/03/22","players":["我","老婆"],"content":"","purchase":"","price":0},
+{"id":2624,"name":"矮人礦坑對決版","date":"2019/04/03","players":["我","老婆"],"content":"","purchase":"","price":0},
+{"id":2625,"name":"矮人礦坑對決版","date":"2019/04/11","players":["我","老婆"],"content":"","purchase":"","price":0},
+{"id":2626,"name":"矮人礦坑對決版","date":"2019/04/23","players":["我","老婆"],"content":"","purchase":"","price":0},
+{"id":2627,"name":"矮人礦坑對決版","date":"2019/04/30","players":["我","老婆"],"content":"","purchase":"","price":0},
+{"id":2628,"name":"矮人礦坑對決版","date":"2019/08/03","players":["我","老婆"],"content":"","purchase":"","price":0},
+{"id":2629,"name":"矮人礦坑對決版","date":"2022/10/10","players":["我","老婆"],"content":"3年沒玩了~.. 第一局就9金塊~","purchase":"","price":0}
 ];
