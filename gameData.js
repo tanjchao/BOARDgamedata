@@ -9434,7 +9434,6 @@ const gameData = [
 {"id":2612,"name":"發明宅的怪奇傑作","date":"2024/11/17","players":["我","老婆"],"content":"","purchase":"","price":0},
 {"id":2613,"name":"發明宅的怪奇傑作","date":"2024/11/24","players":["我","老婆"],"content":"","purchase":"","price":0},
 {"id":2614,"name":"發明宅的怪奇傑作","date":"2024/12/22","players":["我","老婆"],"content":"","purchase":"","price":0},
-  {"id":2615,"name":"矮人礦坑對決版","date":"2017/04/28","players":["我","老婆"],"content":"","purchase":"","price":0},
 {"id":2616,"name":"矮人礦坑對決版","date":"2018/10/01","players":["我","老婆"],"content":"","purchase":"","price":0},
 {"id":2617,"name":"矮人礦坑對決版","date":"2018/10/02","players":["我","老婆"],"content":"","purchase":"","price":0},
 {"id":2618,"name":"矮人礦坑對決版","date":"2018/10/07","players":["我","老婆"],"content":"","purchase":"","price":0},
