@@ -9452,5 +9452,7 @@ const gameData = [
 {"id":2631,"name":"袋中菲力貓","date":"2018/09/18","players":["我","阿允","阿和","阿睿"],"content":"","purchase":"","price":0},
 {"id":2632,"name":"袋中菲力貓","date":"2018/10/03","players":["我","阿允","阿和","阿睿"],"content":"","purchase":"","price":0},
 {"id":2633,"name":"袋中菲力貓","date":"2019/04/30","players":["我","阿允","阿和","阿睿"],"content":"","purchase":"","price":0},
-{"id":2634,"name":"袋中菲力貓","date":"2022/05/13","players":["我","阿立","阿勝","阿俊","阿錩"],"content":"","purchase":"","price":0}
+{"id":2634,"name":"袋中菲力貓","date":"2022/05/13","players":["我","阿立","阿勝","阿俊","阿錩"],"content":"","purchase":"","price":0},
+  {"id":2635,"name":"卡卡頌非洲旅遊","date":"2019/05/12","players":["我","老婆","妮妮"],"content":"","purchase":"","price":0},
+{"id":2636,"name":"卡卡頌非洲旅遊","date":"2019/05/19","players":["我","老婆","妮妮"],"content":"在二林唯一可以玩桌遊的店:一山紅簡餐店玩第二次，後來這間店在2020年10月倒了，真難過。","purchase":"","price":0}
 ];
