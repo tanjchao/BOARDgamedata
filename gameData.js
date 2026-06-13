@@ -9409,5 +9409,8 @@ const gameData = [
   {"id":2587,"name":"AIRSHIPS飛空艇","date":"2016/04/04","players":["我","老婆","妮妮"],"content":"","purchase":"","price":0},
 {"id":2588,"name":"AIRSHIPS飛空艇","date":"2019/04/16","players":["我","老婆","妮妮"],"content":"","purchase":"","price":0},
 {"id":2589,"name":"AIRSHIPS飛空艇","date":"2023/03/12","players":["我","老婆","妹妹"],"content":"","purchase":"","price":0},
-{"id":2590,"name":"AIRSHIPS飛空艇","date":"2024/12/22","players":["我","老婆"],"content":"好遊戲吃骰運啊~","purchase":"","price":0}
+{"id":2590,"name":"AIRSHIPS飛空艇","date":"2024/12/22","players":["我","老婆"],"content":"好遊戲吃骰運啊~","purchase":"","price":0},
+  {"id":2591,"name":"九格恐慌","date":"2025/01/20","players":["我","老婆"],"content":"","purchase":"","price":0},
+{"id":2592,"name":"九格恐慌","date":"2025/06/01","players":["我","老婆","妹妹"],"content":"","purchase":"","price":0},
+{"id":2593,"name":"九格恐慌","date":"2025/07/13","players":["我","老婆","妮妮"],"content":"","purchase":"","price":0}
 ];
