@@ -9465,5 +9465,8 @@ const gameData = [
 {"id":2645,"name":"風聲再臨","date":"2017/12/14","players":["我"],"content":"","purchase":"","price":0},
 {"id":2646,"name":"風聲再臨","date":"2017/12/16","players":["我"],"content":"","purchase":"","price":0},
 {"id":2647,"name":"風聲再臨","date":"2018/05/01","players":["我"],"content":"","purchase":"","price":0},
-{"id":2648,"name":"風聲再臨","date":"2019/01/14","players":["我"],"content":"","purchase":"","price":0}
+{"id":2648,"name":"風聲再臨","date":"2019/01/14","players":["我"],"content":"","purchase":"","price":0},
+  {"id":2649,"name":"造王者","date":"2017/06/24","players":["我","阿紹","阿韋"],"content":"","purchase":"","price":0},
+{"id":2650,"name":"造王者","date":"2017/06/27","players":["我","阿宇","奧迪","阿榮","小瑄"],"content":"","purchase":"","price":0},
+{"id":2651,"name":"造王者","date":"2017/07/21","players":["我","小家","阿侑","阿廑","阿暉","阿程"],"content":"","purchase":"","price":0}
 ];
