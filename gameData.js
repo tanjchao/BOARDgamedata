@@ -9405,5 +9405,9 @@ const gameData = [
 {"id":2583,"name":"國際咖啡館","date":"2018/11/30","players":["我","妮妮"],"content":"","purchase":"","price":0},
 {"id":2584,"name":"國際咖啡館","date":"2019/01/04","players":["我","妮妮"],"content":"","purchase":"","price":0},
 {"id":2585,"name":"國際咖啡館","date":"2019/05/10","players":["我","妮妮"],"content":"","purchase":"","price":0},
-{"id":2586,"name":"國際咖啡館","date":"2025/07/20","players":[],"content":"被德州撲克擠下沒玩","purchase":"","price":0}
+{"id":2586,"name":"國際咖啡館","date":"2025/07/20","players":[],"content":"被德州撲克擠下沒玩","purchase":"","price":0},
+  {"id":2587,"name":"AIRSHIPS飛空艇","date":"2016/04/04","players":["我","老婆","妮妮"],"content":"","purchase":"","price":0},
+{"id":2588,"name":"AIRSHIPS飛空艇","date":"2019/04/16","players":["我","老婆","妮妮"],"content":"","purchase":"","price":0},
+{"id":2589,"name":"AIRSHIPS飛空艇","date":"2023/03/12","players":["我","老婆","妹妹"],"content":"","purchase":"","price":0},
+{"id":2590,"name":"AIRSHIPS飛空艇","date":"2024/12/22","players":["我","老婆"],"content":"好遊戲吃骰運啊~","purchase":"","price":0}
 ];
