@@ -9394,5 +9394,16 @@ const gameData = [
 {"id":2572,"name":"動物上太空","date":"2022/11/29","players":["我","阿捷","阿宇"],"content":"","purchase":"","price":0},
 {"id":2573,"name":"動物上太空","date":"2022/12/31","players":["我","阿誠","阿錩","阿駿"],"content":"人多思考太久","purchase":"","price":0},
 {"id":2574,"name":"動物上太空","date":"2023/12/01","players":["我","小亮"],"content":"","purchase":"","price":0},
-{"id":2575,"name":"動物上太空","date":"2025/12/21","players":["我","老婆"],"content":"終於又玩到了","purchase":"","price":0}
+{"id":2575,"name":"動物上太空","date":"2025/12/21","players":["我","老婆"],"content":"終於又玩到了","purchase":"","price":0},
+  {"id":2576,"name":"國際咖啡館","date":"2016/08/26","players":["我","妮妮"],"content":"","purchase":"","price":0},
+{"id":2577,"name":"國際咖啡館","date":"2016/11/25","players":["我","妮妮"],"content":"","purchase":"","price":0},
+{"id":2578,"name":"國際咖啡館","date":"2018/11/08","players":["我","妮妮"],"content":"","purchase":"","price":0},
+{"id":2579,"name":"國際咖啡館","date":"2018/11/13","players":["我","妮妮"],"content":"","purchase":"","price":0},
+{"id":2580,"name":"國際咖啡館","date":"2018/11/16","players":["我","妮妮"],"content":"","purchase":"","price":0},
+{"id":2581,"name":"國際咖啡館","date":"2018/11/18","players":["我","妮妮"],"content":"","purchase":"","price":0},
+{"id":2582,"name":"國際咖啡館","date":"2018/11/20","players":["我","妮妮"],"content":"","purchase":"","price":0},
+{"id":2583,"name":"國際咖啡館","date":"2018/11/30","players":["我","妮妮"],"content":"","purchase":"","price":0},
+{"id":2584,"name":"國際咖啡館","date":"2019/01/04","players":["我","妮妮"],"content":"","purchase":"","price":0},
+{"id":2585,"name":"國際咖啡館","date":"2019/05/10","players":["我","妮妮"],"content":"","purchase":"","price":0},
+{"id":2586,"name":"國際咖啡館","date":"2025/07/20","players":[],"content":"被德州撲克擠下沒玩","purchase":"","price":0}
 ];
