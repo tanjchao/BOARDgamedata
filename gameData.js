@@ -9469,7 +9469,6 @@ const gameData = [
   {"id":2649,"name":"造王者","date":"2017/06/24","players":["我","阿紹","阿韋"],"content":"","purchase":"","price":0},
 {"id":2650,"name":"造王者","date":"2017/06/27","players":["我","阿宇","奧迪","阿榮","小瑄"],"content":"","purchase":"","price":0},
 {"id":2651,"name":"造王者","date":"2017/07/21","players":["我","小家","阿侑","阿廑","阿暉","阿程"],"content":"","purchase":"","price":0},
-  {"id":2652,"name":"我是大師兄","date":"2020/09/10","players":["我","阿錩","阿駿"],"content":"","purchase":"","price":0},
 {"id":2653,"name":"我是大師兄","date":"2020/09/11","players":["我","阿錩","阿駿"],"content":"","purchase":"","price":0},
 {"id":2654,"name":"我是大師兄","date":"2020/10/08","players":["我","阿錩","阿駿"],"content":"","purchase":"","price":0},
 {"id":2655,"name":"我是大師兄","date":"2020/10/15","players":["我","阿錩","阿駿"],"content":"","purchase":"","price":0}
