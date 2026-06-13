@@ -9460,5 +9460,10 @@ const gameData = [
   {"id":2640,"name":"糟了個糕","date":"2018/03/01","players":["我"],"content":"","purchase":"","price":0},
 {"id":2641,"name":"糟了個糕","date":"2018/03/02","players":["我"],"content":"","purchase":"","price":0},
 {"id":2642,"name":"糟了個糕","date":"2019/04/09","players":["我"],"content":"","purchase":"","price":0},
-{"id":2643,"name":"糟了個糕","date":"2019/04/10","players":["我"],"content":"","purchase":"","price":0}
+{"id":2643,"name":"糟了個糕","date":"2019/04/10","players":["我"],"content":"","purchase":"","price":0},
+  {"id":2644,"name":"風聲再臨","date":"2017/12/12","players":["我"],"content":"","purchase":"","price":0},
+{"id":2645,"name":"風聲再臨","date":"2017/12/14","players":["我"],"content":"","purchase":"","price":0},
+{"id":2646,"name":"風聲再臨","date":"2017/12/16","players":["我"],"content":"","purchase":"","price":0},
+{"id":2647,"name":"風聲再臨","date":"2018/05/01","players":["我"],"content":"","purchase":"","price":0},
+{"id":2648,"name":"風聲再臨","date":"2019/01/14","players":["我"],"content":"","purchase":"","price":0}
 ];
