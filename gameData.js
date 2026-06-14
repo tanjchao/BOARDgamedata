@@ -9485,5 +9485,17 @@ const gameData = [
 {"id":2667,"name":"滿腦子番茄","date":"2023/10/02","players":["小巧","小佩","我"],"content":"","purchase":"","price":0},
  {"id":2668,"name":"火柴會說話","date":"2019/12/28","players":["我","哇哈哈小夥伴"],"content":"","purchase":"","price":0},
 {"id":2669,"name":"火柴會說話","date":"2020/01/08","players":["我","哇哈哈小夥伴"],"content":"","purchase":"","price":0},
-{"id":2670,"name":"火柴會說話","date":"2020/04/07","players":["我","哇哈哈小夥伴"],"content":"","purchase":"","price":0} 
+{"id":2670,"name":"火柴會說話","date":"2020/04/07","players":["我","哇哈哈小夥伴"],"content":"","purchase":"","price":0},
+  {"id":2671,"name":"諸神競技場","date":"2019/05/22","players":["我","阿允","阿和","阿睿"],"content":"","purchase":"","price":0},
+{"id":2672,"name":"諸神競技場","date":"2019/05/23","players":["我","阿允","阿和","阿睿"],"content":"","purchase":"","price":0},
+{"id":2673,"name":"諸神競技場","date":"2019/05/27","players":["我","阿允","阿和","阿睿"],"content":"","purchase":"","price":0},
+{"id":2674,"name":"諸神競技場","date":"2019/05/28","players":["我","阿允","阿和","阿睿"],"content":"","purchase":"","price":0},
+{"id":2675,"name":"諸神競技場","date":"2019/05/29","players":["我","阿允","阿和","阿睿"],"content":"","purchase":"","price":0},
+{"id":2676,"name":"諸神競技場","date":"2019/06/12","players":["我","阿允","阿和","阿睿"],"content":"","purchase":"","price":0},
+{"id":2677,"name":"諸神競技場","date":"2019/06/13","players":["開","阿允","阿和","阿睿"],"content":"","purchase":"","price":0},
+{"id":2678,"name":"諸神競技場","date":"2019/06/14","players":["我","阿允","阿和","阿睿"],"content":"","purchase":"","price":0},
+{"id":2679,"name":"諸神競技場","date":"2019/06/15","players":["我","阿允","阿和","阿睿"],"content":"","purchase":"","price":0},
+{"id":2680,"name":"諸神競技場","date":"2019/06/23","players":["我","阿允","阿和","阿睿"],"content":"","purchase":"","price":0},
+{"id":2681,"name":"諸神競技場","date":"2020/10/28","players":["我","阿榮","阿駿","阿錩"],"content":"","purchase":"","price":0},
+{"id":2682,"name":"諸神競技場","date":"2021/08/09","players":["我","阿立","阿勝","阿錩"],"content":"","purchase":"","price":0}
 ];
