@@ -9710,5 +9710,5 @@ const gameData = [
 {"id":2897,"name":"柯爾特快車","date":"2019/01/25","players":["我","妮妮","老婆"],"content":"","purchase":"","price":0},
 {"id":2898,"name":"柯爾特快車","date":"2020/11/03","players":["我","奧迪","阿榮"],"content":"","purchase":"","price":0},
 {"id":2899,"name":"柯爾特快車","date":"2020/11/06","players":["我","阿駿","阿錩","阿秉"],"content":"","purchase":"","price":0},
-{"id":2900,"name":"柯爾特快車","date":"2020/11/10","players":["我","阿駿","阿錩","奧迪","小巫"],"content":"","purchase":"","price":0},
+{"id":2900,"name":"柯爾特快車","date":"2020/11/10","players":["我","阿駿","阿錩","奧迪","小巫"],"content":"","purchase":"","price":0}
 ];
