@@ -9721,5 +9721,5 @@ const gameData = [
 {"id":2910,"name":"侍魂卡牌","date":"2022/11/28","players":["我","阿強"],"content":"","purchase":"","price":0},
 {"id":2911,"name":"侍魂卡牌","date":"2023/10/04","players":["阿強"],"content":"","purchase":"","price":0},
 {"id":2912,"name":"侍魂卡牌","date":"2025/09/25","players":["我","阿欣"],"content":"","purchase":"","price":0},
-{"id":2913,"name":"侍魂卡牌","date":"2026/06/15","players":["我","阿崇"],"content":"","purchase":"","price":0},
+{"id":2913,"name":"侍魂卡牌","date":"2026/06/15","players":["我","阿崇"],"content":"","purchase":"","price":0}
 ];
