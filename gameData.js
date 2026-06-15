@@ -9711,7 +9711,6 @@ const gameData = [
 {"id":2900,"name":"柯爾特快車","date":"2020/11/10","players":["我","阿駿","阿錩","奧迪","小巫"],"content":"","purchase":"","price":0},
   {"id":2901,"name":"侍魂卡牌","date":"2020/12/19","players":["我"],"content":"","purchase":"","price":0},
 {"id":2902,"name":"侍魂卡牌","date":"2020/12/21","players":["我"],"content":"","purchase":"","price":0},
-{"id":2903,"name":"侍魂卡牌","date":"2020/12/22","players":["我"],"content":"","purchase":"","price":0},
 {"id":2904,"name":"侍魂卡牌","date":"2020/12/27","players":["我"],"content":"","purchase":"","price":0},
 {"id":2905,"name":"侍魂卡牌","date":"2021/04/09","players":["我"],"content":"","purchase":"","price":0},
 {"id":2906,"name":"侍魂卡牌","date":"2022/01/21","players":["我","阿誠"],"content":"","purchase":"","price":0},
@@ -9720,6 +9719,6 @@ const gameData = [
 {"id":2909,"name":"侍魂卡牌","date":"2022/05/12","players":["我","阿勝"],"content":"","purchase":"","price":0},
 {"id":2910,"name":"侍魂卡牌","date":"2022/11/28","players":["我","阿強"],"content":"","purchase":"","price":0},
 {"id":2911,"name":"侍魂卡牌","date":"2023/10/04","players":["阿強"],"content":"","purchase":"","price":0},
-{"id":2912,"name":"侍魂卡牌","date":"2025/09/25","players":["我","阿欣"],"content":"","purchase":"","price":0},
+{"id":2912,"name":"侍魂卡牌","date":"2025/09/25","players":["我","阿宏"],"content":"","purchase":"","price":0},
 {"id":2913,"name":"侍魂卡牌","date":"2026/06/15","players":["我","阿崇"],"content":"","purchase":"","price":0}
 ];
