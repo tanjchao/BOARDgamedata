@@ -9718,5 +9718,5 @@ const gameData = [
 {"id":2910,"name":"侍魂卡牌","date":"2022/11/28","players":["我","阿強"],"content":"","purchase":"","price":0},
 {"id":2911,"name":"侍魂卡牌","date":"2023/10/04","players":["阿強"],"content":"","purchase":"","price":0},
 {"id":2912,"name":"侍魂卡牌","date":"2025/09/25","players":["我","阿宏"],"content":"","purchase":"","price":0},
-{"id":2913,"name":"侍魂卡牌","date":"2026/06/15","players":["我","阿崇"],"content":"","purchase":"","price":0}
+{"id":2913,"name":"侍魂卡牌","date":"2026/06/15","players":["我","阿崇"],"content":"時間不足的放學後，就跟阿崇來了一場侍魂卡牌兩人對決，採取邊教邊玩的方式，結果只有第一次出牌阿崇獲勝，接下來的4~5次出來竟然都是我贏，就直接贏到最後，阿崇積了一堆聚氣牌都無法發動就結束了，這運氣真的是有夠神奇啊~","purchase":"","price":0}
 ];
