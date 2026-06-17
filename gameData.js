@@ -9729,5 +9729,9 @@ const gameData = [
 {"id":2923,"name":"炎魔的數字試煉","date":"2020/07/09","players":["我","阿錩","阿駿"],"content":"","purchase":"","price":0},
 {"id":2924,"name":"炎魔的數字試煉","date":"2022/01/14","players":["阿駿","阿勝","阿立","阿宇"],"content":"","purchase":"","price":0},
 {"id":2925,"name":"炎魔的數字試煉","date":"2022/01/15","players":["我","阿駿","阿勝","阿立"],"content":"","purchase":"","price":0},
-{"id":2926,"name":"炎魔的數字試煉","date":"2023/08/11","players":["阿宗","阿駿","小巧","阿穎"],"content":"","purchase":"","price":0}
+{"id":2926,"name":"炎魔的數字試煉","date":"2023/08/11","players":["阿宗","阿駿","小巧","阿穎"],"content":"","purchase":"","price":0},
+  {"id":2927,"name":"斯凱島","date":"2018/01/13","players":["我","阿盧","阿賢","阿乃","阿智","阿勛"],"content":"","purchase":"","price":0},
+{"id":2928,"name":"斯凱島","date":"2018/01/18","players":["我","阿盧","阿賢","阿乃","阿智","阿勛"],"content":"","purchase":"","price":0},
+{"id":2929,"name":"斯凱島","date":"2018/02/01","players":["我","阿盧","阿賢","阿乃","阿智","阿勛"],"content":"","purchase":"","price":0},
+{"id":2930,"name":"斯凱島","date":"2018/03/20","players":["我","阿盧","阿賢","阿乃","阿智","阿勛"],"content":"","purchase":"","price":0}
 ];
