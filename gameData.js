@@ -9774,5 +9774,9 @@ const gameData = [
 {"id":2968,"name":"玖陣王國","date":"2023/08/12","players":["我","老婆"],"content":"","purchase":"","price":0},
 {"id":2969,"name":"玖陣王國","date":"2023/12/02","players":["我","阿立","阿丞","阿振"],"content":"","purchase":"","price":0},
 {"id":2970,"name":"玖陣王國","date":"2023/12/07","players":["我","阿丞","阿琮","阿振"],"content":"","purchase":"","price":0},
-{"id":2971,"name":"玖陣王國","date":"2024/05/04","players":["我","阿立","阿偉","阿丞","阿亮"],"content":"阿丞創新高74分。又是人類國王。","purchase":"","price":0}
+{"id":2971,"name":"玖陣王國","date":"2024/05/04","players":["我","阿立","阿偉","阿丞","阿亮"],"content":"阿丞創新高74分。又是人類國王。","purchase":"","price":0},
+  {"id":2972,"name":"絕頂聰明","date":"2023/09/28","players":["我","阿振","阿旻","阿沛"],"content":"","purchase":"","price":0},
+{"id":2973,"name":"絕頂聰明","date":"2023/10/01","players":["我","老婆"],"content":"連輸3場......","purchase":"","price":0},
+{"id":2974,"name":"絕頂聰明","date":"2023/10/09","players":["我","老婆"],"content":"","purchase":"","price":0},
+{"id":2975,"name":"絕頂聰明","date":"2023/10/11","players":["我","阿宗","阿華","阿源"],"content":"","purchase":"","price":0}
 ];
