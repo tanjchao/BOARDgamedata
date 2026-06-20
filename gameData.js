@@ -10033,6 +10033,5 @@ const gameData = [
 {"id":3230,"name":"法蘭克動物園","date":"2024/02/11","players":["我","老婆","妮妮","婷婷"],"content":"大年初二","purchase":"","price":0},
 {"id":3231,"name":"法蘭克動物園","date":"2025/01/30","players":["我","老婆","妮妮","妹妹"],"content":"大年初二","purchase":"","price":0},
 {"id":3232,"name":"法蘭克動物園","date":"2025/10/04","players":["我","老婆","妮妮","妹妹"],"content":"中秋","purchase":"","price":0},
-{"id":3233,"name":"法蘭克動物園","date":"2025/10/05","players":["我","老婆","妮妮","妹妹"],"content":"","purchase":"","price":0},
-{"id":3234,"name":"法蘭克動物園","date":"2026/05/14","players":["我","阿寶","阿樂","阿軒","阿閔"],"content":"","purchase":"","price":0}
+{"id":3233,"name":"法蘭克動物園","date":"2025/10/05","players":["我","老婆","妮妮","妹妹"],"content":"","purchase":"","price":0}
 ];
