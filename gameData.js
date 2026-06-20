@@ -10007,5 +10007,8 @@ const gameData = [
 {"id":3204,"name":"海底探險(潛水艇)","date":"2021/05/04","players":["我","阿駿","阿錩","小映"],"content":"","purchase":"","price":0},
 {"id":3205,"name":"海底探險(潛水艇)","date":"2022/01/28","players":["我","阿駿","阿錩","小津"],"content":"","purchase":"","price":0},
 {"id":3206,"name":"海底探險(潛水艇)","date":"2024/06/21","players":["我","小亮","小思"],"content":"","purchase":"","price":0},
-{"id":3207,"name":"海底探險(潛水艇)","date":"2024/06/26","players":["我","阿亮","阿旂","阿昱","阿郁","阿佳"],"content":"","purchase":"","price":0}
+{"id":3207,"name":"海底探險(潛水艇)","date":"2024/06/26","players":["我","阿亮","阿旂","阿昱","阿郁","阿佳"],"content":"","purchase":"","price":0},
+{"id":3208,"name":"城堡連擊","date":"2026/06/14","players":["我","老婆"],"content":"沒去逢甲了，在家中玩了3場城堡連擊。","purchase":"","price":0},
+{"id":3209,"name":"城堡連擊","date":"2026/06/20","players":["我","老婆"],"content":"天氣太熱了，沒去逢甲了，一樣在家中玩了3場城堡連擊。","purchase":"","price":0}
+
 ];
