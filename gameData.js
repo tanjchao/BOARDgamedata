@@ -10164,8 +10164,6 @@ const gameData = [
 {"id": 3359, "name": "街角特務", "date": "2026/09/15", "players": ["我", "阿崇"], "content": "", "purchase": "", "price": 0},
 {"id": 3360, "name": "上流社會", "date": "2026/09/15", "players": ["我", "阿偉", "阿錡", "小采"], "content": "", "purchase": "", "price": 0},
 {"id": 3361, "name": "運轉潮汐", "date": "2026/09/15", "players": ["我", "阿偉", "阿錡", "小采"], "content": "", "purchase": "", "price": 0},
-{"id": 3362, "name": "心智蠕蟲", "date": "2026/09/16", "players": ["我", "阿崇"], "content": "", "purchase": "", "price": 0},
-{"id": 3363, "name": "王城鑄骰", "date": "2026/09/16", "players": ["我", "阿崇"], "content": "我用聖誕老人阿崇用武僧。第二局我用惡魔聖誕阿崇一樣用武僧，但玩到一半被打斷就只好收了。", "purchase": "", "price": 0},
   {"id": 3364, "name": "王城鑄骰", "date": "2022/03/25", "players": ["我", "阿勝", "阿錩"], "content": "我用野蠻人，阿勝阿錩都用月精靈，兩場野蠻人都樂勝啊~", "purchase": "2022/3/25淘寶", "price": 0},
 {"id": 3365, "name": "王城鑄骰", "date": "2022/03/28", "players": ["我", "阿立", "阿錩"], "content": "我又用野蠻人，阿立的月精靈也是不敵", "purchase": "", "price": 0},
 {"id": 3366, "name": "王城鑄骰", "date": "2022/03/29", "players": ["我", "阿勝", "阿峻", "阿立"], "content": "", "purchase": "", "price": 0},
